@@ -16,16 +16,21 @@ A collection of poetic writing reflecting the disorder and turbulence of an unse
 </form> 
 
 
+
+***
+
+
 ## THE BLACK HORSE DIARIES
 
 Pull up your favorite stool, grab a cold one, and welcome to The Black Horse Pub.
 
 Join landlady Rosie and her devoted staff as they introduce you to the most diverse and remarkable bunch of bar "regulars" you will ever meet. Sit back and enjoy the ride, as they take you on a journey through a year in the life of a very special small town Ontario pub.
 
-Bear witness to the highs and lows of their lives, as they experience them - all the triumphs and tragedies, the romances and conflicts that this wonderful group of lovable misfits encounter, as they make their way through another memorable year.
-
+Bear witness to the highs and lows of their lives, as they experience them. 
 
 ![The Black Horse Diaries](/images/img-books-bh-1.jpg){: width=165 height=247 style="float:right; padding:16px"}
+
+All the triumphs and tragedies, the romances and conflicts that this wonderful group of lovable misfits encounter, as they make their way through another memorable year.
 
 Once they you have passed through the doors of the Black Horse Pub, we guarantee you'll want to return again and again!
 
