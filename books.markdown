@@ -3,7 +3,7 @@ title: Books
 permalink: /books/
 ---
 
-![At home in the maelstrom](/images/img-books-maelstrom-1.png){: width=165 height=248 style="float:right; padding:16px"}
+![At home in the maelstrom](/images/img-books-maelstrom-1.png){: width=165 height=248 style="float:none; padding:16px"}
 
 ## AT HOME IN THE MAELSTROM
 
@@ -31,7 +31,7 @@ Pull up your favorite stool, grab a cold one, and welcome to The Black Horse Pub
 Join landlady Rosie and her devoted staff as they introduce you to the most diverse and remarkable bunch of bar "regulars" you will ever meet. Sit back and enjoy the ride, as they take you on a journey through a year in the life of a very special small town Ontario pub.
 
 
-![The Black Horse Diaries](/images/img-books-bh-1.jpg){: width=165 height=247 style="float:right; padding:16px"}
+![The Black Horse Diaries](/images/img-books-bh-1.jpg){: width=165 height=247 style="float:none; padding:16px"}
 
 Bear witness to the highs and lows of their lives, as they experience them. 
 
