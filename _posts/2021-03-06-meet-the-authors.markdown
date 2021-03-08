@@ -7,15 +7,29 @@ categories: Black Horse Diaries
 
 ![Black Horse Diaries](/images/img-books-bh-1.jpg){: width=82.5 height=123.5 style="float:none; padding:16px"}
 
+
+![Bill Perrie](/images/img-authors-bill.png){: width=93.5 height=92.5 style="float:none; padding:16px"}
+
+
 ## Bill Perrie
 
 
 Bill is the author of eight guide books featuring the best pubs in Ontario and Canada, and a former radio host whose show featured pubs and beer. Known as "Canada's Pub Guy", Bill is the part owner of a small town Ontario pub. Born in Dundee, Scotland, Bill now resides in Mount Albert, Ontario.
 
+***
+
+
+![Ken Jorgenson](/images/img-authors-ken.png){: width=93 height=93.5 style="float:none; padding:16px"}
+
 
 ## Ken Jorgenson
 
 A published poet, Ken is a former feature writer for The Pub Magazine, a beer connoisseur, and an avid Sherlockian collector. When he's not reading or writing, he works as a Health and Safety Manager in Markham, Ontario. Ken's keen interest in beer and pubs developed during adolescence and is one that he continues to pursue faithfully to this day.
+
+***
+
+
+![Alissa Heidman](/images/img-authors-alyssa.png){: width=93 height=94 style="float:none; padding:16px"}
 
 
 ## Alissa Heidman
