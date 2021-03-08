@@ -2,7 +2,7 @@
 title: "Meet the staff of the Black Horse"
 image:
 date: 2021-03-05 09:45:06 -0500
-categories: Black Horse Diaries
+categories: Black-Horse-Diaries
 ---
 
  |
