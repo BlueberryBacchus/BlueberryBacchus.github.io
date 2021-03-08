@@ -3,6 +3,8 @@ title: Bio
 permalink: /about/
 ---
 
+![Ken Jorgenson](/images/img-about-1.png){: width=165 height=204.5 style="float:right; padding:16px"}
+
 With his unforgettable characters, and stories that show a deep knowledge of human nature,  Ken Jorgenson has become one of Canada’s most talented uprising writers. The great skill with which he weaves the lives of his characters proves that Jorgenson is a master of storytelling and one of the writers addressing the human condition in a way that makes it so relatable to his readers.
 
 While Ken Jorgenson is mostly known as a retired international athlete and rugby coach, his lifelong passion has always been the words and stories of writers and thinkers he cherishes, such as John Lecarré, Cormac McCarthy, and Arthur Conan Doyle.
