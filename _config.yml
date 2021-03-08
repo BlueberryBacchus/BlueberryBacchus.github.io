@@ -71,7 +71,16 @@ defaults:
 author:
   name: Ken Jorgenson
   picture: /images/photo-portrait.png
+  links:
+    - title: Instagram
+      url: https://www.instagram.com/kennyjorgenson/
+      icon: fa fa-instagram
 
+# Footer Links
+footer_links:
+  - title: Instagram
+    url: https://www.instagram.com/kennyjorgenson/
+    icon: fa fa-instagram
 
 # Copyright
 copyright: "This site is made with <3 by *Ken*."
