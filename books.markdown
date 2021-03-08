@@ -7,9 +7,10 @@ permalink: /books/
 
 ## AT HOME IN THE MAELSTROM
 
-### KEN JORGENSON
+#### KEN JORGENSON
 
 A collection of poetic writing reflecting the disorder and turbulence of an unsettled life.
+
 
 <form>
 <input style="width: 300px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #000000; color: #fff; border-radius: 10px; border: 1px solid #999; font-size: 150%;" type="button" value="PAPERBACK" onclick="window.location.href='http://www.amazon.ca/At-Home-Maelstrom-Collection-Poems/dp/B08NMP2386/ref=sr_1_1?dchild=1&keywords=At+home+in+the+maelstrom+by+Ken+Jorgenson&qid=1615220718&sr=8-1'" />
@@ -17,7 +18,10 @@ A collection of poetic writing reflecting the disorder and turbulence of an unse
 
 
 
+
 ***
+
+
 
 
 ## THE BLACK HORSE DIARIES
@@ -26,9 +30,10 @@ Pull up your favorite stool, grab a cold one, and welcome to The Black Horse Pub
 
 Join landlady Rosie and her devoted staff as they introduce you to the most diverse and remarkable bunch of bar "regulars" you will ever meet. Sit back and enjoy the ride, as they take you on a journey through a year in the life of a very special small town Ontario pub.
 
-Bear witness to the highs and lows of their lives, as they experience them. 
 
 ![The Black Horse Diaries](/images/img-books-bh-1.jpg){: width=165 height=247 style="float:right; padding:16px"}
+
+Bear witness to the highs and lows of their lives, as they experience them. 
 
 All the triumphs and tragedies, the romances and conflicts that this wonderful group of lovable misfits encounter, as they make their way through another memorable year.
 
