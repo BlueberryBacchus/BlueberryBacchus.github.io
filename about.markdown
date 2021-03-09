@@ -19,7 +19,7 @@ You can follow Ken on [Instagram](https://www.instagram.com/kennyjorgenson/).
 
 ***
 
-## Discover Ken Jorgenson's books
+## Ken Jorgenson's books
 
 
 [![At home in the maelstrom](/images/img-books-maelstrom-1.png){: width=55 height=82.6 style="float:none; padding:16px"}](http://www.amazon.ca/At-Home-Maelstrom-Collection-Poems/dp/B08NMP2386/ref=sr_1_1?dchild=1&keywords=At+home+in+the+maelstrom+by+Ken+Jorgenson&qid=1615220718&sr=8-1)
