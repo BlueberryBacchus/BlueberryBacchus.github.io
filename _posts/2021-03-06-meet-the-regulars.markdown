@@ -34,9 +34,9 @@ John is a boisterous, blue collar member of the "Dog Pound", fond of telling jok
 
 ***
 
-Discover the [authors]()
+Discover the [authors](https://www.kenjorgenson.com/black-horse-diaries/2021/03/05/meet-the-authors.html)
 
-Have you met [the Black Horse staff?]()
+Have you met [the Black Horse staff?](https://www.kenjorgenson.com/black-horse-diaries/2021/03/05/my-second-post.html)
 
 ***
 
