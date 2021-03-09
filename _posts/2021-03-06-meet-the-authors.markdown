@@ -1,5 +1,5 @@
 ---
-title: "Discover the authors of the Black Horse Diaries"
+title: "Discover the authors of the Black-Horse-Diaries"
 image:
 date: 2021-03-05 09:45:06 -0500
 categories: Black Horse Diaries
