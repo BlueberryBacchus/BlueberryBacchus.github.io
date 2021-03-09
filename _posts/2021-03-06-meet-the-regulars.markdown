@@ -1,5 +1,5 @@
 ---
-title: "Meet the regulars"
+title: "Meet the regulars of the Black Horse"
 image:
 date: 2021-03-05 09:45:06 -0500
 categories: Black-Horse-Diaries
@@ -37,5 +37,6 @@ A quiet, heartbroken young widower Ben pops into the pub occasionally to visit h
 John is a boisterous, blue collar member of the "Dog Pound", fond of telling jokes and dominating conversations. A likable guy with no "off switch", he also has a fetish for women's feet.
 
 
-[Discover the writers]()
+Discover the [authors]()
+Have you met [the Black Horse staff?]()
 
