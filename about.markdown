@@ -26,3 +26,6 @@ You can follow Ken on [Instagram](https://www.instagram.com/kennyjorgenson/).
 
 
 [![The Black Horse Diaries](/images/img-books-bh-1.jpg){: width=55 height=82.3 style="float:none; padding:16px"}](http://www.amazon.ca/Black-Horse-Diaries-Small-Ontario/dp/169338549X/ref=pd_sim_1?pd_rd_w=rYCm9&pf_rd_p=ee332eae-116a-4f86-a77d-d3527e938650&pf_rd_r=PFWYKQX3Q18FTCHFADSB&pd_rd_r=b9eaad20-d5fd-47a4-aa70-5020c23dfb8a&pd_rd_wg=6097R&pd_rd_i=169338549X&psc=1)
+
+
+[*Read more...*](https://www.kenjorgenson.com/books/)
