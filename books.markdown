@@ -38,7 +38,7 @@ Bear witness to the highs and lows of their lives, as they experience them.
 
 All the triumphs and tragedies, the romances and conflicts that this wonderful group of lovable misfits encounter, as they make their way through another memorable year.
 
-Once they you have passed through the doors of the Black Horse Pub, we guarantee you'll want to return again and again!
+Once you have passed through the doors of the Black Horse Pub, we guarantee you'll want to return again and again!
 
 Read more about [the staff](https://www.kenjorgenson.com/black-horse-diaries/2021/03/05/my-second-post.html) and the [regulars](https://www.kenjorgenson.com/black-horse-diaries/2021/03/05/meet-the-regulars.html).
 
