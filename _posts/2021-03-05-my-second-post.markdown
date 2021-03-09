@@ -40,9 +40,9 @@ Brian "the Piano Man" provides regular entertainment events for the pub, belting
 
 ***
 
-[Meet the regulars...]()
+[Meet the regulars...](https://www.kenjorgenson.com/black-horse-diaries/2021/03/05/meet-the-regulars.html)
 
-Discover the [authors]()
+Discover the [authors](https://www.kenjorgenson.com/black-horse-diaries/2021/03/05/meet-the-authors.html)
 
 <form>
 <input style="width: 250px; padding: 20px; cursor: pointer; box-shadow: 6px 6px 5px; #999; -webkit-box-shadow: 6px 6px 5px #999; -moz-box-shadow: 6px 6px 5px #999; font-weight: bold; background: #000000; color: #fff; border-radius: 10px; border: 1px solid #999; font-size: 100%;" type="button" value="GET THE PAPERBACK" onclick="window.location.href='http://www.amazon.ca/Black-Horse-Diaries-Small-Ontario/dp/169338549X/ref=pd_sim_1?pd_rd_w=rYCm9&pf_rd_p=ee332eae-116a-4f86-a77d-d3527e938650&pf_rd_r=PFWYKQX3Q18FTCHFADSB&pd_rd_r=b9eaad20-d5fd-47a4-aa70-5020c23dfb8a&pd_rd_wg=6097R&pd_rd_i=169338549X&psc=1'" />
