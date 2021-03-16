@@ -7,7 +7,7 @@ categories: Sherlock-Holmes-Sidney-Paget
 
 Sherlock Holmes. What is the image that forms in your mind's eye when you think of the world's most famous consulting detective? 
 
-For many, it is the open, engaging face of Basil Rathbone, sporting his iconic deerstalker and Inverness cape. Others may picture the elegant and genteel version that Peter Cushing presented on the BBC. Or perhaps it can be none othet than the mercurial Jeremy Brett, who single-handedly dragged an entire generation of new fans into his Holmesian orbit with his relentless pursuit of authenticity. Even now, there are myriads for whom the youthful visage of Benedict Cumberbatch *is* Sherlock Holmes.
+For many, it is the open, engaging face of Basil Rathbone, sporting his iconic deerstalker and Inverness cape. Others may picture the elegant and genteel version that Peter Cushing presented on the BBC. Or perhaps it can be none other than the mercurial Jeremy Brett, who single-handedly dragged an entire generation of new fans into his Holmesian orbit with his relentless pursuit of authenticity. Even now, there are myriads for whom the youthful visage of Benedict Cumberbatch *is* Sherlock Holmes.
 
 Television and films have featured so many versions of the great detectives, brought to life with varying success and acceptance by the public of the day. But what is the original source for all of these interpretations, and what image did people form of Sherlock Holmes before the advent of TV or films? For this, we must look back to 1891 and *The Strand Magazine*.
 
